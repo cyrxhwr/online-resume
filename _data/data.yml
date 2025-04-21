@@ -3,16 +3,15 @@ meta:
   language: en              # text language, the value is HTML lang attribute value, default is "en"
 
 basic:
-  name: Foo Bar                      # name
-  title: Backend Developer           # job title 
+  name: Renz Samuel Gutierrez                      # name
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/profile.png # file path or link to your avatar
 
 contact:
-  location: Beijing, China  # location, text or markdown link syntax
-  email: me@example.com     # email address
-  phone: +86-111-2222-3333  # phone number, the format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  location: Daejeon, South Korea  # location, text or markdown link syntax
+  email: renzgutierrez84@gmail.com    # email address
+  phone: +82-10-4389-7883  # phone number, the format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   website: example.com      # site link without schema, like example.com, will automatically prepend "https://"
 
   gender:                   # gender or pronoun
