@@ -103,9 +103,7 @@ profile:
   order: 1
   title: Profile
   description: |
-    The profile section in a resume is a brief summary of the applicant's skills, qualifications, and experience. The purpose of this section is to provide a snapshot of the applicant's professional background and highlight their most relevant accomplishments and strengths. It may include information such as the applicant's career objectives, years of experience, areas of expertise, and key achievements.
-
-    A well-crafted profile section can help to grab the attention of potential employers and encourage them to read on and learn more about the applicant's qualifications and experience.
+    Curious, driven, and interdisciplinary, I’m a student passionate about the intersection of technology, design, and business. I’m especially drawn to the transformative potential of artificial intelligence, both in how it reshapes industries and challenges conventional thinking. Currently exploring the world of UX/UI design, I’m fascinated by how human-centered design and machine learning can work hand-in-hand to build smarter, more intuitive systems. I thrive on learning, prototyping, and pushing ideas beyond the limits of code.
 
 experience:
   show: true
