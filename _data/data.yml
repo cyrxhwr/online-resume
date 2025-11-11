@@ -256,10 +256,12 @@ education:
       degree: Bachelor
       description: |
 
-    - institution: Fountain International School (Philippines)
+    - institution: Fountain International School
+      location: San Juan City, Philippines
       link:
       date: 2018 - 2020
       major: STEM-ICT
+      degree: High School
       description: |
 
 certificate:
