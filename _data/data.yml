@@ -59,7 +59,7 @@ contact:
   producthunt:              # https://www.producthunt.com/@<username>
 
   # cv
-  linkedin:   https://www.linkedin.com/in/renz-gutierrez-66bb9b289/              # https://linkedin.com/in/<username>
+  linkedin:                 # https://linkedin.com/in/<username>
   indeed:                   # https://my.indeed.com/p/<id>
   xing:                     # https://www.xing.com/profile/<username>
   fiverr:                   # https://www.fiverr.com/<username>
